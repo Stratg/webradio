@@ -1,0 +1,38 @@
+{
+	"playlist_name":"standard",
+	"stations": 
+	[
+		{
+			"name":"swing-street-radio",
+			"url":"s6.voscast.com:11312/;stream/1"
+		},
+		{
+			"name":"ABC Lounge Jazz",
+			"url":"http://str1.openstream.co/589"
+		},
+		{
+			"name":"Mellotron",
+			"url":"listen.radioking.com/radio/477719/stream/534044"
+		},
+		{
+			"name":"Rock Melodic Radio",
+			"url":"https://i4.streams.ovh:2200/ssl/rockmelo?mp=/stream"
+		},
+		{
+			"name":"Kizrock",
+			"url":"https://securestreams6.autopo.st:2116/kizrock"
+		},
+		{
+			"name":"Blues Radio",
+			"url":"i4.streams.ovh:8352/;streams/1"
+		},
+		{
+			"name":"Venice Classic Radio Italia",
+			"url":"174.36.206.197:8000/;str"
+		},
+		{
+			"name":"B4B Disco Funk",
+			"url":"eu10.fastcast4u.com:8120/stream/1/"
+		}
+	]
+}
